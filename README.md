@@ -1,2 +1,2 @@
 # teste-merge
-BATATA DE MANDIOCA
+CHIPS DE MANDIOCA
