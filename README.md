@@ -1,2 +1,2 @@
 # teste-merge
-Teste de conflitos de merge
+BATATA DE MANDIOCA
